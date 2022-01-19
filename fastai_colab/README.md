@@ -12,7 +12,8 @@
 
 ### 2.2) Noize Problem
 ![1_zlxO7NuxK6ZijZtXnRl46Q](https://user-images.githubusercontent.com/58144828/150101230-b85184d5-705b-477c-bf71-803b1bf6a2f8.png)
-Training your algo with noise
+- Training your algo with noise
+
 ### 2.3) Overfitting problem
 
 ### 2.4) Bias Variance tradeoff
