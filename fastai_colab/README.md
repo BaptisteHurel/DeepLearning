@@ -25,23 +25,23 @@ Separate test data and training data (train / test / validation)
 - Train Data
 - Test Data
 
-### Find the balance
+### 2.6) Find the balance
 ![Illustration-du-dilemme-biais-variance-Lorsque-la-complexite-du-modele-augmente](https://user-images.githubusercontent.com/58144828/150098729-06efe242-28cd-4b30-ac33-88a847da0c36.png)
 
-### MLP - Multilayer perceptron
+### 2.7) MLP - Multilayer perceptron
 ![2018-04-13_1330](https://user-images.githubusercontent.com/58144828/150099463-2085ca12-0037-4539-802d-d457a739d3da.png)
 
-### Choix du poids
+### 2.8) Choix du poids
 - Readjust the weights of our network (bias)
 - Search for the minimum error rate / maximum success rate
 
-## 1) 01_intro
+## 3) 01_intro
 Link : https://github.com/BaptisteHurel/Python/blob/master/TP%20Fast%20AI/01_intro.ipynb
 
-## 2) 02_production
+## 4) 02_production
 Link : https://github.com/BaptisteHurel/Python/blob/master/TP%20Fast%20AI/02_production.ipynb
 
-## 3) Atelier-keras-CatsVSDogs
+## 5) Atelier-keras-CatsVSDogs
 Link : https://github.com/BaptisteHurel/Python/blob/master/TP%20Fast%20AI/Atelier-keras-CatsVSDogs.ipynb
 
 - La stratégie de ce transfert d'apprentissage consiste à exploiter la connaissance acquise sur un problème de classification général pour l’appliquer à un problème particulier.
